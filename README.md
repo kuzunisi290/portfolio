@@ -1,7 +1,7 @@
 # Portfolio
 
 - 葛西　達也
-- 連絡先 
+- 連絡先 Gmail:tatsu32fuwa@gmail.com
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2024年卒業予定
 
 ## 資格
@@ -26,11 +26,20 @@
 
 
 ## 作品リスト
+CLIMING STAR CAVE
 
+![サムネ](samune.png)
+
+[CLIMING STAR CAVE](https://liluo.io/kuzu/climing-star-cave)
+
+壁を登ってお宝を探すアクションゲーム
+
+- 開発環境：GDevelop
+- 開発期間：一ヶ月
 
 
 
 ## 連絡先
-- 
+- Gmail:tatsu32fuwa@gmail.com
 
-[練習](prac.md)
+
